@@ -27,6 +27,6 @@ When the user deletes an alarm make sure it “does not alerts the user”
 
 ##### PRODUCT DEMO:
 
-(LINK) (https://alarmclockprj.000webhostapp.com/)
+ (https://alarmclockprj.000webhostapp.com/)
 
-(CODE) (https://github.com/Rohan23045/Alarm_clock)
+ (https://github.com/Rohan23045/Alarm_clock)
